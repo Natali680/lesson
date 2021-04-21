@@ -19,7 +19,7 @@ const obj = {
     isMarried: false
 };
 // console.log(obj.name);
-console.log(obj['name']);
+// console.log(obj['name']);
 
 // alert('Hello!');
 
